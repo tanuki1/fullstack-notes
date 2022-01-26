@@ -1,1 +1,1 @@
-web: cd notes-backend && npm start
+web: npm start
